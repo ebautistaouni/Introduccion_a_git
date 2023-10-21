@@ -1,4 +1,4 @@
-# Introduccion_a_git
+# Introduccion a git con chacon
 Este es mi repositorio acerca de introduccion a git
 
 ## Seccion 1
