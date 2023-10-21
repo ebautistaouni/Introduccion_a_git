@@ -7,7 +7,8 @@ x = rnomr(100)
 hist(x)
 ```
 
-
-
 ## Seccion 1
-Este es un texto 
+
+Este es un texto $f(x) = x^2$.
+
+$$x \sim N(0,\sigma^2) $$
