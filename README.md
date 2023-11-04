@@ -20,3 +20,9 @@ Este es el formato de una tabla
 |-- | -- | -- |
 |1 | Statistician | 25 |
 |2 | Writer | 32 |
+
+## Enlaces e imagenes
+
+El enlace para este repositorio es [mi repositorio](https://github.com/ebautistaouni/Introduccion_a_git).
+
+Ahora agrego una imagen del software: git ![git](figuras/imagen.png)
