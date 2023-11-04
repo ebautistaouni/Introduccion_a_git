@@ -12,3 +12,11 @@ hist(x)
 Este es un texto $f(x) = x^2$.
 
 $$x \sim N(0,\sigma^2) $$
+
+## Seccion 2
+Este es el formato de una tabla
+
+|Id | Profession | Age |
+|-- | -- | -- |
+|1 | Statistician | 25 |
+|2 | Writer | 32 |
