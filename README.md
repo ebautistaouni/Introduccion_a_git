@@ -28,3 +28,9 @@ El enlace para este repositorio es [mi repositorio](https://github.com/ebautista
 Ahora agrego una imagen del software: git 
 
 ![git](figuras/imagen.png)
+
+## Cambio en la rama
+
+- Item 1
+- Item 2
+- Item 3
